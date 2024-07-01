@@ -1,30 +1,116 @@
+<!-- <a href="https://github.com/arhamansari11">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=nautilus">
+</a> -->
+
 <h1 align="center">Hi 👋, I'm Hanzla Gormani</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programer"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzlikhan&label=Profile%20views&color=0e75b6&style=flat" alt="hanzlikhan" /> </p>
+# Full Stack Webb Developer and Leetcode Solver🖥️.
 
-- 🔭 I’m currently working on **Portfolio**
+<!-- [![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
 
-- 🌱 I’m currently learning **C++,Java,Web And App development**
+-->
 
-- 💬 Ask me about **Front-end , back-end development , C++,Java**
 
-- 📫 How to reach me **khangormani79@gmail.com**
+<!-- Bio -->
+<!-- - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[7th](https://committers.top/pakistan#arhamansari11)**. -->
+- **@[LeetCode](https://leetcode.com/u/hanzlakhan/)** Solved 250+ Data Structures & Algorithms problems.
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
+- **@lablab.ai**: [Participated](https://lablab.ai/u/@muhammad_hanzla_451) in multiple international AI hackathons as part with a team of 6 international members.
+- **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 2st place](https://www.linkedin.com/posts/muhammad-hanzla-787081279_cs50-puzzleday-problemsolving-activity-7184118329882669056-PHOu?utm_source=share&utm_medium=member_desktop) solving 8/9 complex
+puzzles.
+- **@[Typing Speed](https://www.linkedin.com/posts/muhammad-hanzla-787081279_icodeguru-successjourney-typingskills-activity-7205258673676251136-C69j?utm_source=share&utm_medium=member_desktop)** More than 50 WPM.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@hanzlagormani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hanzlagormani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad hanzla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hanzla" height="30" width="40" /></a>
-<a href="https://fb.com/hanzla gormani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hanzla gormani" height="30" width="40" /></a>
-<a href="https://instagram.com/hanzlagormani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanzlagormani" height="30" width="40" /></a>
+#
+
+## My Skill Set 🛠️:
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/hanzlikhan">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
+</div>
+</a>
+
+### Backend  
+<a href="https://github.com/hanzlikhan">
+<div align="center">   
+      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+    
+### Languages
+<a href="https://github.com/hanzlikhan">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/hanzlikhan">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+ ## Connect with me🤝:
+<div align="center">
+    <a href="https://www.linkedin.com/in/muhammad-hanzla-787081279/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Hanzla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:arham96100@gmail.com"><img src="https://img.shields.io/badge/-khangormani79@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/hanzlakhan/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Hanzla-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://lablab.ai/u/@muhammad_hanzla_451" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+</div>
+
+
+
+ ## Github Stats📈:
+<p align="center">
+    <a href="https://github.com/hanzlikhan">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hanzlikhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanzlikhan&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+ <p align="center">
+   <a href="https://github.com/hanzlikhan"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzlikhan&theme=algolia&hide_border=true" /> 
+   </a>  
+ </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzlikhan&show_icons=true&locale=en&layout=compact" alt="hanzlikhan" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzlikhan&show_icons=true&locale=en" alt="hanzlikhan" /></p>
+#
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzlikhan&" alt="hanzlikhan" /></p>
+<!-- <div align="center">
+  <a href="https://github.com/arhamansari11">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+  </a>
+ </div> -->
+
+## COMPLETED INTERNATIONAL HACKATHONS🥇:
+
+
+  <!-- &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/90917306-1f50-46e4-a8b9-2b9981d444a5" width="400">
+  </a>
+   &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/ai-agents-hackathon-2/viral-cuts/viral-clips">
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/62cf67c7-6df6-4337-809a-8fd2e102b748" width="400">
+  </a>
+   &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
+  </a> -->
+</p>
+
+
+
+#
+

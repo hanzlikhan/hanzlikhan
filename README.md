@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Hanzla Gormani</h1>
 
-# Full Stack Webb Developer and Leetcode Solver🖥️.
+# Agentic AI, Full Stack Webb Developer and Leetcode Solver🖥️.
 
 <!-- [![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
 
@@ -18,7 +18,7 @@
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@muhammad_hanzla_451) in multiple international AI hackathons as part with a team of 6 international members.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 2st place](https://www.linkedin.com/posts/muhammad-hanzla-787081279_cs50-puzzleday-problemsolving-activity-7184118329882669056-PHOu?utm_source=share&utm_medium=member_desktop) solving 8/9 complex
 puzzles.
-- **@[Typing Speed](https://www.linkedin.com/posts/muhammad-hanzla-787081279_icodeguru-successjourney-typingskills-activity-7205258673676251136-C69j?utm_source=share&utm_medium=member_desktop)** More than 50 WPM.
+- **@[Typing Speed](https://www.linkedin.com/posts/muhammad-hanzla-787081279_typingspeed-motivation-growth-activity-7287875380001017856-9jOz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPR4xcBYfDwpVMEj0JnLgYIEmF1WQqohlE)** More than 80 WPM.
 
 #
 

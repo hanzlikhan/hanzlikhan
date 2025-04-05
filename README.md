@@ -13,7 +13,7 @@
 
 <!-- Bio -->
 <!-- - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[7th](https://committers.top/pakistan#arhamansari11)**. -->
-- **@[LeetCode](https://leetcode.com/u/hanzlakhan/)** Solved 250+ Data Structures & Algorithms problems.
+- **@[LeetCode](https://leetcode.com/u/hanzlakhan/)** Solved 400+ Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@muhammad_hanzla_451) in multiple international AI hackathons as part with a team of 6 international members.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 2st place](https://www.linkedin.com/posts/muhammad-hanzla-787081279_cs50-puzzleday-problemsolving-activity-7184118329882669056-PHOu?utm_source=share&utm_medium=member_desktop) solving 8/9 complex

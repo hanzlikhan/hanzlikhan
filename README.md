@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Hanzla Gormani</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Hanzla Gormani</h1>
 
 # Agentic-AI, GenAI Full Stack Web Developer and Leetcode Solo🖥️.
 

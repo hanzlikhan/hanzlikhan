@@ -14,7 +14,7 @@
 - **@[LeetCode](https://leetcode.com/u/hanzlakhan/)** Solved 400+ Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@muhammad_hanzla_451) in multiple international AI hackathons as part with a team of 6 international members.
-- **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 2st place](https://www.linkedin.com/posts/muhammad-hanzla-787081279_cs50-puzzleday-problemsolving-activity-7184118329882669056-PHOu?utm_source=share&utm_medium=member_desktop) solving 8/9 complex
+- **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/posts/muhammad-hanzla-787081279_cs50-puzzleday-problemsolving-activity-7184118329882669056-PHOu?utm_source=share&utm_medium=member_desktop) solving 9/9 complex
 puzzles.
 - **@[Typing Speed](https://www.linkedin.com/posts/muhammad-hanzla-787081279_typingspeed-motivation-growth-activity-7287875380001017856-9jOz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPR4xcBYfDwpVMEj0JnLgYIEmF1WQqohlE)** More than 89 WPM
 

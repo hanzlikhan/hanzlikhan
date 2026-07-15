@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Hanzla </h1>
 
-# Agentic-AI,FTEs Developer and Leetcode Solo🖥️.
+# Agentic-AI, FTEs Developer and Leetcode Solo🖥️.
 
 <!-- [![LeetCode(https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=red)](https://leetcode.com/arham_ansari11/)
 
@@ -10,7 +10,8 @@
 
 <!-- Bio -->
 <!-- - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[7th](https://committers.top/pakistan#arhamansari11)**. -->
-- **@[LeetCode](https://leetcode.com/u/hanzlakhan/)** Solved 400+ Data Structures & Algorithms problems.
+- **@[CodeInPlace](https://digitalcredential.stanford.edu/check/E79AD3842C5B94FF652F209FD7AE7B1B5B2757CCB41BB1B1B04EA933F638504DYzlCY2NlQzQvUjg5VTdtSi9OYWRqVTNrcnFQS2JsYjg5emRZSDVhMW1sYUN6NlBh)** Selected as a section leader for twice @ Code In Place Stanford University.
+- **@[LeetCode](https://leetcode.com/u/hanzlakhan/)** Solved Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@muhammad_hanzla_451) in multiple international AI hackathons as part with a team of 6 international members.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/posts/muhammad-hanzla-787081279_cs50-puzzleday-problemsolving-activity-7184118329882669056-PHOu?utm_source=share&utm_medium=member_desktop) solving 9/9 complex

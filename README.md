@@ -10,10 +10,10 @@
 
 <!-- Bio -->
 <!-- - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[7th](https://committers.top/pakistan#arhamansari11)**. -->
-- **@[CodeInPlace](https://digitalcredential.stanford.edu/check/E79AD3842C5B94FF652F209FD7AE7B1B5B2757CCB41BB1B1B04EA933F638504DYzlCY2NlQzQvUjg5VTdtSi9OYWRqVTNrcnFQS2JsYjg5emRZSDVhMW1sYUN6NlBh)** Selected as a section leader for twice @ Code In Place Stanford University.
+- **@[CodeInPlace](https://digitalcredential.stanford.edu/check/E79AD3842C5B94FF652F209FD7AE7B1B5B2757CCB41BB1B1B04EA933F638504DYzlCY2NlQzQvUjg5VTdtSi9OYWRqVTNrcnFQS2JsYjg5emRZSDVhMW1sYUN6NlBh)** Selected as a Section Leader twice to teach Python to international students from different regions of the world @ Code In Place Stanford University.
 - **@[LeetCode](https://leetcode.com/u/hanzlakhan/)** Solved Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
-- **@lablab.ai**: [Participated](https://lablab.ai/u/@muhammad_hanzla_451) in multiple international AI hackathons as part with a team of 6 international members.
+- **@lablab.ai**: [Participated](https://lablab.ai/u/@muhammad_hanzla_451) in multiple international AI hackathons as part of a team of 6 international members.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/posts/muhammad-hanzla-787081279_cs50-puzzleday-problemsolving-activity-7184118329882669056-PHOu?utm_source=share&utm_medium=member_desktop) solving 9/9 complex
 puzzles.
 - **@[Typing Speed](https://www.linkedin.com/posts/muhammad-hanzla-787081279_typingspeed-motivation-growth-activity-7287875380001017856-9jOz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPR4xcBYfDwpVMEj0JnLgYIEmF1WQqohlE)** More than 89 WPM
